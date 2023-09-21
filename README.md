@@ -23,6 +23,24 @@
 - [14주차](14/숙제.md)
 - [15주차](15/숙제.md)
 
+
+### 숙제 저장
+```
+PythonBasicHomework 레파지토리에 저장해오기
+```
+<img width="500px" src="https://github.com/whalecoding/PythonBasicHomework/assets/48852104/56200eeb-9336-4d6c-b7ce-0263c57b31ee"></img>   
+'Create new file' 클릭
+
+<img width="500px" src="https://github.com/whalecoding/PythonBasicHomework/assets/48852104/22458558-7b65-434b-8769-5369f353ae7b"></img>   
+위에 '01/main.py' 입력    
+아래에 숙제 내용 붙여넣기
+
+<img width="500px" src="https://github.com/whalecoding/PythonBasicHomework/assets/48852104/666785a9-9a9d-475b-bd61-25c80d300326"></img>    
+초록색 'Commit changes...' 버튼 두 번 클릭하여 저장하기
+
+
+
+
 ### 복습
 - [변수](복습/01.md)
 - [분기문1](복습/02.md)
