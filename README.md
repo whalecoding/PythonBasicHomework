@@ -25,6 +25,8 @@
 
 ### 숙제 저장
 ```
+github.com 사이트 들어가기
+
 PythonBasicHomework 레파지토리에 저장해오기
 ```
 <img width="500px" src="https://github.com/whalecoding/PythonBasicHomework/assets/48852104/56200eeb-9336-4d6c-b7ce-0263c57b31ee"></img>   
