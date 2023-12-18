@@ -6,6 +6,9 @@
 - [온라인 컴파일러3](https://www.programiz.com/python-programming/online-compiler)
 - [컴퓨터에 환경 구축 VScode&Python 설치](https://blog.naver.com/whale_coding/222689650435)
 
+### 방학특강
+- [숙제](01/00.md)
+
 ### 숙제
 - [2주차](01/숙제.md)
 - [3주차](100/03.md)
