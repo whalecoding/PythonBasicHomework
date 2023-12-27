@@ -135,8 +135,8 @@ def @@@(won) :
 # 함수 호출
 print('${}'.format(exchange(1300))) # $1
 print('${}'.format(exchange(2600))) # $2
-print('${}'.exchange(13000))) # $10
-print('${}'.exchange(1000000))) # $769.23
+print('${}'.format(exchange(13000))) # $10
+print('${}'.format(exchange(1000000))) # $769.23
 
 won = int(input('환전할 원화 : '))
 dollar = exchange(won)
@@ -257,7 +257,7 @@ elif @@@:
 elif @@@:
     print('{}이 가장 작은 숫자입니다.'.format(num3))
 else:
-    print(@@@)
+    print(@@@) # 적절한 문자열을 출력하세요.
 ```
 
 
@@ -319,11 +319,12 @@ while True:
 
 
 ```python
-# 81~100 : A등급
-# 61~80 : B등급
-# 41~60 : C등급
-# 21~40 : D등급
-# 0~20 : E등급
+# 80~100 : A등급
+# 60~79 : B등급
+# 40~59 : C등급
+# 20~39 : D등급
+# 0~19 : E등급
+# 100 초과, 0 미만 : 잘못된 입력
 
 while True:
     score = input("점수: ")
@@ -395,6 +396,25 @@ number = input('숫자 입력 : )
 **
 ***
 ****
+*****
+```
+
+- 사용자의 입력을 받아 그 수만큼 직각 삼각형 별(*)을 출력하는 프로그램을 작성하세요.
+
+```python
+number = input('숫자 입력 : )
+@@@
+
+# 3 입력
+  *
+ **
+***
+
+# 5 입력
+    *
+   **
+  ***
+ ****
 *****
 ```
 
