@@ -325,7 +325,7 @@ else:
   - 어린이 요금은 성인 요금에서 50% 할인됩니다.
 
 ```python
-def printPrice(transportation):
+def print_price(transportation):
     adult_price = 0
     child_price = 0
     
@@ -335,7 +335,7 @@ def printPrice(transportation):
 
 
 transportation = input("사용할 교통편 : ")
-printPrice(transportation)
+print_price(transportation)
 ```
 
 ### 반복문
