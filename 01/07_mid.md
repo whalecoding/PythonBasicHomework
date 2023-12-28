@@ -52,6 +52,40 @@ print('''Hello world!''')
 print("""Hello world!""")
 ```
 
+- 두 변수를 사용하여 아래 문장을 출력하세요.
+  - hello world hello world hello world hello world hello world
+  - s1 = "hello"
+  - s2 = "world"
+```python
+s1 = 'python'
+s2 = 'java'
+print(@@@)
+```
+
+- 코드의 실행 결과를 옆에 주석(comment - #)으로 적어보세요.
+  - 무엇이 다른가요?
+
+```python
+a = 2023
+b = 12
+print(a + b)
+
+a = "2023"
+b = "12"
+print(a + b)
+```
+
+- 아래 문자열을 변수에 저장하고 다양한 문자를 출력해보세요.
+  - Love yourself.
+  - L, v, u, s, f
+  
+```python
+s = 'Love yourself.'
+print(s[0]) # L
+print(@@@) # v
+...
+```
+
 
 - 아래 코드를 실행하면 어떻게 동작할지 예상해보고 결괏값을 적어보세요.
 
@@ -76,6 +110,18 @@ print(@@@)
 print(@@@)
 ```
 
+
+- 아래 코드에서 오류가 발생하는 이유를 코드 옆에 주석(comment)으로 작성하세요.
+
+```python
+age = 12
+age[0]
+
+age = '12'
+age[0]
+```
+
+
 ### 입/출력
 
 - '당신의 나이는?' 문자열을 출력하고, 사용자의 입력을 받아서 태어난 연도를 출력하세요.
@@ -86,6 +132,16 @@ year = @@@@ - age
 print('당신의 올해 나이는 {}살 입니다. 당신은 {}년에 태어났습니다.'.format(age, year))
 ```
 
+- "20240101Sunny" 형태의 문자열을 입력받아 '년/월/일/날씨' 로 구분하여 출력하세요.
+
+```python
+s = @@@
+year = s[@@:@@]
+month = s[@@:@@]
+day = s[@@:@@]
+weather = s[@@:@@]
+print("{}년 {}월 {}일 / 날씨 : {}".@@@)
+```
 
 ### 함수
 
