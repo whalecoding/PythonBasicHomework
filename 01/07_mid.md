@@ -397,9 +397,7 @@ while True:
   - 미취학 아동은 8살 미만, 성인은 20살 이상입니다. 
 
 ```python
-age = int(input('나이 : '))
-while @@@:
-    @@@
+age = int(input('나이 : ')) # 사용
 ```
 
 
