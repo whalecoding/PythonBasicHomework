@@ -57,8 +57,8 @@ print("""Hello world!""")
   - s1 = "hello"
   - s2 = "world"
 ```python
-s1 = 'python'
-s2 = 'java'
+s1 = 'hello'
+s2 = 'world'
 print(@@@)
 ```
 
